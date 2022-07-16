@@ -7,6 +7,7 @@ It is not recommended to use it in productive environments. Unit tests and docum
 - Router with customizable routes
 - JSON api reception
 - Various design pattern
+- Greeting randomly from 10 different languages ;-)
 
 ![alt text](/public/media/preview.gif)
 
